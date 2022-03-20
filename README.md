@@ -1,17 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek</h1>
-<h3 align="center">A Cyber Security Student</h3>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vivek</h1>
+<h3 align="left">A Cyber Security Student</h3>
 
-## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/vivek-mishra-b3b085216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-
 </p>
 
-## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Vivek-mishra-2002">
 </a>
@@ -48,9 +45,7 @@
 
   <br/>
     <a href="https://github.com/Vivek-mishra-2002/github-readme-stats"><img alt="Vivek Mishra Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vivek-mishra-2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-mishra-2002&exclude_repo=github-readme-stats,Vivek-mishra-2002.github.io)](https://github.com/Vivek-mishra-2002/github-readme-stats)
- 
+  <a href="https://github.com/Vivek-mishra-2002/github-readme-stats"><img alt="Vivek Mishra Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-mishra-2002&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
