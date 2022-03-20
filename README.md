@@ -48,7 +48,9 @@
 
   <br/>
     <a href="https://github.com/Vivek-mishra-2002/github-readme-stats"><img alt="Vivek Mishra Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vivek-mishra-2002&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Vivek-mishra-2002/github-readme-stats"><img alt="Vivek Mishra Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-mishra-2002&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-mishra-2002&exclude_repo=github-readme-stats,Vivek-mishra-2002.github.io)](https://github.com/Vivek-mishra-2002/github-readme-stats)
+ 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
